@@ -103,9 +103,9 @@ analytics:
 # Site Author # 저자 설정
 author:
   name             : "SUM"
-  avatar           : "/assets/images/computer-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #사진
+  avatar           : "/assets/images/main.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #사진
   bio              : "IT/Tech"
-  location         : "Somewhere"
+  location         : "Korea"
   email            : "qkrtnals3636@gmail.com"
   links:
     - label: "Email"
