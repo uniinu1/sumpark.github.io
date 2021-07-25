@@ -1,11 +1,14 @@
 ---
+layout: post
 title: "깃허브 블로그 시작하기"
-excerpt: "네이버 블로그 -> 깃허브 블로그로 개발 블로그 이전하다."
-
-categories:
-	- Blog
+excerpt: "네이버 블로그에서 깃허브 블로그로 개발 블로그 이전하다."
+date: 2021-07-25 21:15:00 +0000
+Categories:
+	- Github_Blog
 tags:
 	- Github_Blog
+	- Jekyll
+	- 2021
 ---
 
 네이버 블로그에서 깃허브 블로그로 개발 블로그를 이전하려고 한다.
@@ -18,5 +21,3 @@ tags:
 
 좀 더 익숙해져야겠다. 한글이 한 글자 한 글자 띄엄띄엄 보이는 git_bash창도 익숙하지 않아서... 하하 
 
-이 글의 제목: {{ page.title }}
-마지막으로 수정된 시간: {{ page.last_modified_at }}
