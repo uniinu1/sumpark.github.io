@@ -102,7 +102,7 @@ analytics:
 
 # Site Author # 저자 설정
 author:
-  name             : "SUM"
+  name             : "Sumin Park"
   avatar           : "/assets/images/main.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #사진
   bio              : "IT/Tech"
   location         : "Korea"
