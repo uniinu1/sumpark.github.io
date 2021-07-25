@@ -18,5 +18,5 @@ tags:
 
 좀 더 익숙해져야겠다. 한글이 한 글자 한 글자 띄엄띄엄 보이는 git_bash창도 익숙하지 않아서... 하하 
 
-이 글의 제목 : {{ page.title }}
-마지막으로 수정된 시간 : {{ page.last_modified_at }}
+이 글의 제목: {{ page.title }}
+마지막으로 수정된 시간: {{ page.last_modified_at }}
