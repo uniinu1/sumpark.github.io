@@ -1,6 +1,6 @@
 # [SUM-DEV blog](https://uniinu1.github.io/)
 
-
+- 위의 url을 누르면 Sumin Park의 개발 블로그 SUM-DEV blog로 이동합니다.
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
