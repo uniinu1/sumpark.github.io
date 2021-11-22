@@ -1,3 +1,3 @@
  User-agent: *
  Allow: /
- Sitemap: "https://uniinu1.github.io/sitemap.xml"
+ Sitemap: https://uniinu1.github.io/sitemap.xml
