@@ -8,7 +8,7 @@ main:
   - title: "Catecories"
     url: /categories/
   - title: "Tags"
-    url: /Tags/
+    url: /tag-archive/
  # - title: "Quick-Start Guide"
  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 #  - title: "Sample Posts"
