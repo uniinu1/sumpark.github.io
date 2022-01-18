@@ -4,7 +4,7 @@ main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Year"
-    url: /year/
+    url: /year-archive/
   - title: "Catecories"
     url: /categories/
  # - title: "Quick-Start Guide"
